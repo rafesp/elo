@@ -1,5 +1,5 @@
 ---
-default: -p dot -p html -p headless
+default: -p doc -p html -p headless
 ci: -p dot -p jason -p remote
 doc: --format pretty
 dot: --format progress
